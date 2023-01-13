@@ -11,7 +11,7 @@
 | Name            | ...                                                              |
 | email           | [john.doe@example.com](mailto:john.doe@example.com)              |
 | Github Username | ...                                                              |
-| Hosting         | [https://yourdomain.netlify.app](https://yourdomain.netlify.app) |
+| Hosting         | [https://meadworld.netlify.app/](https://meadworld.netlify.app/) |
 
 ## Installatie
 
