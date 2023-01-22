@@ -1,0 +1,38 @@
+.geschiedenis{
+    margin: 2em;
+    padding: 2em;
+    border: 2em solid transparent;
+    border-radius: 1em;
+
+
+    background: #fdf1cc;
+    border-image-source: url("/images/geschiedenis/bordercelticknot.png");
+    border-image-repeat: round;
+    border-image-slice: 10%;
+
+
+    box-shadow: 10px 10px 33px 1px rgba(0,0,0,0.75);
+
+}
+.geschiedenisparagraaf{
+    width: 100%;
+    height:100%;
+    margin-top: 2em;
+    overflow: hidden;
+
+
+}
+.geschiedenisparagraaf img{
+    margin: 0.5em;
+    margin-top: 1em;
+
+    height: 10em;
+    width: 7em;
+}
+.geschiedenis h2{
+
+    text-align: center;
+}
+.geschiedenisparagraaf p {
+    font-size: 1.5em;
+}

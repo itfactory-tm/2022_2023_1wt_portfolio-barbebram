@@ -8,9 +8,9 @@
 
 | Student         | Info                                                             |
 |:----------------|:-----------------------------------------------------------------|
-| Name            | ...                                                              |
-| email           | [john.doe@example.com](mailto:john.doe@example.com)              |
-| Github Username | ...                                                              |
+| Name            | barbé bram                                                       |
+| email           | [**john.doe@example.com**](mailto:**john.doe@example.com**)      |
+| Github Username | barbebram                                                        |
 | Hosting         | [https://meadworld.netlify.app/](https://meadworld.netlify.app/) |
 
 ## Installatie

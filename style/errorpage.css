@@ -1,0 +1,87 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("../images/honeycombbottomhorz.png");
+    background-repeat: repeat repeat;
+    background-color: rgba(252, 240, 207, 0.78);
+    color: #e68e13;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 6rem;
+    font-weight: 200;
+}
+
+h2 {
+    font-size: .8rem;
+    font-weight: 400;
+    display: inline-block;
+    padding: .5rem;
+    background-color: #fad173;
+    transform: translateY(-2.5rem);
+}
+div{
+    display: flex;
+}
+.buttonhome{
+    padding: .5rem;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    height: 5em;
+    width: 10em;
+    background: #e68e13;
+    border-radius: 2em;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: #770107;
+    font-size: 1rem;
+}
+
+.heimages{
+    margin-left: 2em;
+    height: 20em;
+    width: 30em;
+
+
+}
+
+@media screen and (min-width: 480px) {
+    h1 {
+        font-size: 9rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+        transform: translateY(-4rem);
+    }
+}
+
+@media screen and (min-width: 800px) {
+    h1 {
+        font-size: 15rem;
+    }
+
+    h2 {
+        font-size: 2.2rem;
+        transform: translateY(-6rem);
+    }
+}

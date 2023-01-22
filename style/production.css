@@ -1,0 +1,14 @@
+.productieimage{
+    display: flex;
+    width: 15em;
+    height: auto;
+    margin-bottom: 0.5em;
+}
+.textbox{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.textbox h3{
+    margin-top: 0px;
+}
