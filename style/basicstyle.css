@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Libre Baskerville', serif;
 
 }
 body{
@@ -112,7 +113,7 @@ nav {
 
 .textbalk p{
     margin: 1em;
-    margin-left: 0em;
+    margin-left: 0;
     font-size: 1.5em;
 }
 .textbalk ul{
@@ -143,7 +144,7 @@ main {
 
 .navigatie{
     position: sticky;
-    top: 0px;
+    top: 0;
 
     box-shadow: 1px 6px 43px 4px rgba(0,0,0,0.75);
 
